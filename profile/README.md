@@ -1,15 +1,19 @@
 # Main Testalab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
-Covid
-Evolution
-Other
 
+
+
+[Covid](#--covid)<br>
+[Evolution](#--evolution)<br>
+[Science and technology studies (STS),](#--science-and-technology-studies-sts)<br>
 [Genetics NDD](#--genetics-ndd)<br>
 [Environment NDD](#--environment-ndd)<br>
 [Cancer](#--cancer)<br>
 [Methodological innovation](#--methodological-innovation)<br>
 [Atlases](#--atlases)<br>
+[Others](#--genetics-ndd)<br>
+
 
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Genetics NDD
 
