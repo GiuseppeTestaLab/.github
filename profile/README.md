@@ -1,4 +1,4 @@
-# Testalab projects divided by category
+# Main Testalab publications by category
 
 ## 🔴 Cohorts
 
@@ -17,6 +17,8 @@ At the current stage the resource encompasses:  **14 among atlases and single-ce
 The resource is meant to provide both harmonized data and a set of methods to facilitate the extension with new datasets, integration, differential expression and comparative analysis.
 - 
 
+
+## Additional publications
 - Tile by tile: capturing the evolutionary mosaic of human conditions. Caporale et al., Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs. Testa et al., Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - A framework for research with neural organoids, Assembloids and Transplantation Studies. Pașca et al., Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
