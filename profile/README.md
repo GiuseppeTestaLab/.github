@@ -16,9 +16,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
 
-- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
-
+- 📌 
 <details>
   <summary>Additional Genetics NDD publications</summary>
 
@@ -26,18 +24,19 @@ This paper shows, for the first time, developmental trajectories as clinically r
 
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Evolution
 
-- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+- 📌
 
 <details>
   <summary>Additional Genetics NDD publications</summary>
 
+- **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
+- **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
 </details>
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Epigenetics
 
-- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+- 📌 **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
+In this paper we finally demonstrate ...<br>
 
 <details>
   <summary>Additional Genetics NDD publications</summary>
@@ -135,7 +134,6 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 </details>
 
 ## Additional publications
-- **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
 - **Different Names for the Same Thing? Novelty, Expectations, and Performative Nominalism in Personalized and Precision Medicine.** *Galasso et al.*, Social Theory & Health. https://doi.org/10.1057/s41285-024-00203-8<br>
