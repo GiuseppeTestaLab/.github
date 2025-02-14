@@ -31,19 +31,19 @@ In and out: Benchmarking in vitro, in vivo, ex vivo, and xenografting approaches
 Tumor microenvironment-induced FOXM1 regulates ovarian cancer stemness. Battistini et al., Cell Death & Disease. https://doi.org/10.1038/s41419-024-06767-7 <br>
 Curation of causal interactions mediated by genes associated with autism accelerates the understanding of gene-phenotype relationships underlying neurodevelopmental disorders. Iannuccelli et al., Molecular Psychiatry. https://doi.org/10.1038/s41380-023-02317-3 [GitHub https://github.com/SaccoPerfettoLab/ProxPath.]<br>
 GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders. López-Tobón et al., Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity. Angioni et al., Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 github https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
-Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism. D'Incal et al., Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8 <br>
+RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity. Angioni et al., Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
+Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism. D'Incal et al., Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8]<br>
 Editorial: Cell biology of brain development and evolution. Mora-Bermúdez et al., Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1147510 <br>
 H3K27me3 Demethylases Maintain the Transcriptional and Epigenomic Landscape of the Intestinal Epithelium. Kolev et al., Cellular and Molecular Gastroenterology and Hepatology. https://doi.org/10.1016/j.jcmgh.2022.12.001 <br>
 Benchmarking brain organoid recapitulation of fetal corticogenesis. Cheroni et al., Translational Psychiatry. https://doi.org/10.1038/s41398-022-02279-0<br>
 The Transcriptional Regulator Prdm1 Is Essential for the Early Development of the Sensory Whisker Follicle and Is Linked to the Beta-Catenin First Dermal Signal. Manti et al., Biomedicines. https://doi.org/10.3390/biomedicines10102647 <br>
 A nomenclature consensus for nervous system organoids and assembloids. Pașca et al., Nature. https://doi.org/10.1038/s41586-022-05219-6<br>
 Integrated molecular profiling of patient-derived ovarian cancer models identifies clinically relevant signatures and tumor vulnerabilities. Lupia et al., International Journal of Cancer. https://doi.org/10.1002/ijc.33983 <br>
-Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens. Andirkó et al., Scientific Reports. https://doi.org/10.1038/s41598-022-13589-0  github https://github.com/AGMAndirko/Temporal-mapping.<br>
+Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens. Andirkó et al., Scientific Reports. https://doi.org/10.1038/s41598-022-13589-0 [GitHub https://github.com/AGMAndirko/Temporal-mapping].<br>
 EZH2-Mediated H3K27me3 Targets Transcriptional Circuits of Neuronal Differentiation. Buontempo et al., Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2022.814144 <br>
 CHD8 haploinsufficiency links autism to transient alterations in excitatory and inhibitory trajectories. Villa et al., Cell Reports. https://doi.org/10.1016/j.celrep.2022.110615<br>
 Single cell-derived spheroids capture the self-renewing subpopulations of metastatic ovarian cancer. Velletri et al., Cell Death & Differentiation. https://doi.org/10.1038/s41418-021-00878-w <br>
-From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures. Caporale et al., Science. https://doi.org/10.1126/science.abe8244 github https://giuseppetestalab.github.io/EDCMixRisk/ <br>
+From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures. Caporale et al., Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 Imbalanced autophagy causes synaptic deficits in a human model for neurodevelopmental disorders. Linda et al., Autophagy. https://doi.org/10.1080/15548627.2021.1936777<br>
 Thymic stroma and TFII-I: towards new targeted therapies. Manti et al., Trends in Molecular Medicine. https://doi.org/10.1016/j.molmed.2021.10.008 <br>
 Exploiting epigenetic dependencies in ovarian cancer therapy. Coughlan and Testa, International Journal of Cancer. https://doi.org/10.1002/ijc.33727 <br>
@@ -51,14 +51,14 @@ Novel in vitro Experimental Approaches to Study Myelination and Remyelination in
 Seizure activity and brain damage in a model of focal non-convulsive status epilepticus. Vila Verde et al., Neuropathology and Applied Neurobiology. https://doi.org/10.1111/nan.12693 <br>
 Acting on uncertainty: real-life mixtures of endocrine disrupting chemicals. Even Chorev and Testa, BioSocieties. https://doi.org/10.1057/s41292-020-00192-7 <br>
 Big Tech platforms in health research: Re-purposing big data governance in light of the General Data Protection Regulation’s research exemption. Marelli et al., Big Data & Society. https://doi.org/10.1177/20539517211018783<br>
-Epigenomic landscape of human colorectal cancer unveils an aberrant core of pan-cancer enhancers orchestrated by YAP/TAZ. Della Chiara et al., Nature Communications. https://doi.org/10.1038/s41467-021-22544-y github https://github.com/paganilab/DellaChiara_et_al_2021 <br>
+Epigenomic landscape of human colorectal cancer unveils an aberrant core of pan-cancer enhancers orchestrated by YAP/TAZ. Della Chiara et al., Nature Communications. https://doi.org/10.1038/s41467-021-22544-y [GitHub https://github.com/paganilab/DellaChiara_et_al_2021] <br>
 Long non-coding RNA TINCR suppresses metastatic melanoma dissemination by preventing ATF4 translation. Melixetian et al., EMBO Reports. https://doi.org/10.15252/embr.202050852 <br>
 COVID-19 lessons from the dish: Dissecting CNS manifestations through brain organoids. Caporale and Testa, EMBO Journal. https://doi.org/10.15252/embj.2020107213 <br>
 Rethinking Human Embryo Research Policies. Matthews et al., Hastings Center Report. https://doi.org/10.1002/hast.1215 <br>
 Reconstitution of a functional human thymus by postnatal stromal progenitor cells and natural whole-organ scaffolds. Campinoti et al., Nature Communications. https://doi.org/10.1038/s41467-020-20082-7 <br>
 High-throughput screening identifies histone deacetylase inhibitors that modulate GTF2I expression in 7q11.23 microduplication autism spectrum disorder patient-derived cortical neurons. Cavallo et al., Molecular Autism. https://doi.org/10.1186/s13229-020-00387-6 <br>
 LifeTime and improving European healthcare through cell-based interceptive medicine. Rajewsky et al., Nature. https://doi.org/10.1038/s41586-020-2715-9<br>
-A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer. Lo Riso et al., Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  github https://github.com/GiuseppeTestaLab/CellOfOrigin<br>
+A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer. Lo Riso et al., Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 JMJD3 acts in tandem with KLF4 to facilitate reprogramming to pluripotency. Huang et al., Nature Communications. https://doi.org/10.1038/s41467-020-18900-z<br>
 Thinking “ethical” when designing an international, cross-disciplinary biomedical research consortium. Torres-Padilla et al., EMBO Journal. https://doi.org/10.15252/embj.2020105725 <br>
 Autism spectrum disorder at the crossroad between genes and environment: contributions, convergences, and interactions in ASD developmental pathophysiology. Cheroni et al., Molecular Autism. https://doi.org/10.1186/s13229-020-00370-1 <br>
@@ -85,7 +85,7 @@ The European politics of animal experimentation: From Victorian Britain to 'Stop
 Taming Human Genetic Variability: Transcriptomic Meta-Analysis Guides the Experimental Design and Interpretation of iPSC-Based Disease Modeling. Germain and Testa, Stem Cell Reports. https://doi.org/10.1016/j.stemcr.2017.05.012 <br>
 YY1 Haploinsufficiency Causes an Intellectual Disability Syndrome Featuring Transcriptional and Chromatin Dysfunction. Gabriele et al., American Journal of Human Genetics. https://doi.org/10.1016/j.ajhg.2017.05.006 <br>
 TRIC: an automated alignment strategy for reproducible protein quantification in targeted proteomics. Röst et al., Nature Methods. https://doi.org/10.1038/nmeth.3954 <br>
-RNAontheBENCH: computational and empirical resources for benchmarking RNAseq quantification and differential expression methods. Germain et al., Nucleic Acids Research. https://doi.org/10.1093/nar/gkw448 github https://github.com/plger/RNAontheBENCH <br>
+RNAontheBENCH: computational and empirical resources for benchmarking RNAseq quantification and differential expression methods. Germain et al., Nucleic Acids Research. https://doi.org/10.1093/nar/gkw448 [GitHub https://github.com/plger/RNAontheBENCH]<br>
 Polycomb dysregulation in gliomagenesis targets a Zfp423-dependent differentiation network. Signaroldi et al., Nature Communications. https://doi.org/10.1038/ncomms10753 <br>
 7q11.23 dosage-dependent dysregulation in human pluripotent stem cells affects transcriptional programs in disease-relevant lineages. Adamo et al., Nature Genetics. https://doi.org/10.1038/ng.3169 <br>
 Scrutinizing the epigenetics revolution. Meloni and Testa, Biosocieties. https://doi.org/10.1057/biosoc.2014.22 <br>
@@ -124,4 +124,3 @@ DNA cloning by homologous recombination in Escherichia coli. Zhang et al., Natur
 Point mutation of bacterial artificial chromosomes by ET recombination. Muyrers et al., EMBO Reports. https://doi.org/10.1093/embo-reports/kvd049 <br>
 Rapid modification of bacterial artificial chromosomes by ET-recombination. Muyrers et al., Nucleic Acids Research. https://doi.org/10.1093/nar/27.6.1555 <br>
 TCRi: an alternatively sliced product of the T cell receptor zeta gene. Nocentini et al., European Journal of Immunology. https://doi.org/10.1002/eji.1830250540 <br>
-
