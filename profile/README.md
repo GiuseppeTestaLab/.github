@@ -26,7 +26,7 @@ This paper shows, for the first time, developmental trajectories as clinically r
 </details>
 
 
-## 🟢  Environment NDD
+## <img src="./icons/chemical.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Environment NDD
 
 - 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
@@ -37,7 +37,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
   
 </details>
 
-## 🟡  Cancer
+## <img src="./icons/cancer.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Cancer
 
 - 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 
