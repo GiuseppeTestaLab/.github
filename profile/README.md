@@ -17,9 +17,9 @@ This paper shows, for the first time, developmental trajectories as clinically r
 </details>
 
 
-## 🟢 📌 Environment NDD
+## 🟢  Environment NDD
 
-- **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
+- 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
 
 <details>
@@ -39,9 +39,9 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 </details>
 
 
-## 🟠 📌 Methodological innovation
+## 🟠  Methodological innovation
 
-- **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
+- 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
 The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
 
 <details>
