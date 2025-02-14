@@ -13,15 +13,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 
 <details>
-  <summary>Click me</summary>
-    ### Heading1. Foo
-  2. Bar
-     * Baz
-     * Qux
-  ### Some Javascript```jsfunction logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  <summary>Additional cancer publications</summary>
 </details>
 
 
