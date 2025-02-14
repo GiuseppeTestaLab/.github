@@ -11,6 +11,20 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 ## 🟡 📌 Cancer
 
+
+<details>
+  <summary>Click me</summary>
+    ### Heading1. Foo
+  2. Bar
+     * Baz
+     * Qux
+  ### Some Javascript```jsfunction logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
 ## 🟠 📌 Methodological innovation
 
 - **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release]<br>
