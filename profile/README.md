@@ -1,6 +1,9 @@
 # Main Testalab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
+Covid
+Evolution
+Other
 
 [Genetics NDD](#--genetics-ndd)<br>
 [Environment NDD](#--environment-ndd)<br>
@@ -36,6 +39,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 ## 🟡 📌 Cancer
 
+- **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 
 <details>
   <summary>Additional cancer publications</summary>
@@ -102,7 +106,6 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 - **Reconstitution of a functional human thymus by postnatal stromal progenitor cells and natural whole-organ scaffolds.** *Campinoti et al.*, Nature Communications. https://doi.org/10.1038/s41467-020-20082-7 <br>
 - **High-throughput screening identifies histone deacetylase inhibitors that modulate GTF2I expression in 7q11.23 microduplication autism spectrum disorder patient-derived cortical neurons.** *Cavallo et al.*, Molecular Autism. https://doi.org/10.1186/s13229-020-00387-6 <br>
 - **LifeTime and improving European healthcare through cell-based interceptive medicine.** *Rajewsky et al.*, Nature. https://doi.org/10.1038/s41586-020-2715-9<br>
-- **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 - **JMJD3 acts in tandem with KLF4 to facilitate reprogramming to pluripotency.** *Huang et al.*, Nature Communications. https://doi.org/10.1038/s41467-020-18900-z<br>
 - **Thinking “ethical” when designing an international, cross-disciplinary biomedical research consortium.** *Torres-Padilla et al.*, EMBO Journal. https://doi.org/10.15252/embj.2020105725 <br>
 - **Autism spectrum disorder at the crossroad between genes and environment: contributions, convergences, and interactions in ASD developmental pathophysiology.** *Cheroni et al.*, Molecular Autism. https://doi.org/10.1186/s13229-020-00370-1 <br>
