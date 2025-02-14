@@ -12,7 +12,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Cancer](#--cancer)<br>
 [Methodological innovation](#--methodological-innovation)<br>
 [Atlases](#--atlases)<br>
-[Others](#--genetics-ndd)<br>
+[Others](#--others)<br>
 
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
 
@@ -47,6 +47,18 @@ This paper shows, for the first time, developmental trajectories as clinically r
 
 
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Science and technology studies (STS)
+
+- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
+This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+
+<details>
+  <summary>Additional Genetics NDD publications</summary>
+  
+
+</details>
+
+
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Genetics NDD
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
