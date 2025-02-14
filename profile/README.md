@@ -5,6 +5,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 ## 🔵 📌 Genetics NDD
 
 - **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
+This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
 
 <details>
   <summary>Additional Genetics NDD publications</summary>
