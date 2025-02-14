@@ -1,10 +1,17 @@
 # Main Testalab publications by category
 
+Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
+
 ## 🔵 📌 Genetics NDD
+
+- **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 
 <details>
   <summary>Additional Genetics NDD publications</summary>
+  
   - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
+- **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
+- **Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism.** *D'Incal et al.*, Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8]<br>
 
 </details>
 
@@ -17,6 +24,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 <details>
   <summary>Additional Environment NDD publications</summary>
   
+  
 </details>
 
 ## 🟡 📌 Cancer
@@ -24,6 +32,9 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 <details>
   <summary>Additional cancer publications</summary>
+  
+- **Tumor microenvironment-induced FOXM1 regulates ovarian cancer stemness.** *Battistini et al.*, Cell Death & Disease. https://doi.org/10.1038/s41419-024-06767-7 <br>
+- **Integrated molecular profiling of patient-derived ovarian cancer models identifies clinically relevant signatures and tumor vulnerabilities.** *Lupia et al.*, International Journal of Cancer. https://doi.org/10.1002/ijc.33983 <br>
 </details>
 
 
@@ -34,7 +45,13 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 
 <details>
   <summary>Additional Methodological innovation publications</summary>
+  
   - **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
+- **Specification of a rostro-caudal axis in cortical assembloids through a polarized source of FGF8.** *Bosone et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02412-5 [GitHub: https://github.com/GiuseppeTestaLab/polCAs/]<br>
+- **Engineering Toxoplasma gondii secretion systems for intracellular delivery of multiple large therapeutic proteins to neurons.** *Bracha et al.*, Nature Microbiology. https://doi.org/10.1038/s41564-024-01750-6 <br>
+- **In and out: Benchmarking in vitro, in vivo, ex vivo, and xenografting approaches for an integrative brain disease modeling pipeline.** *Pereira et al.*, Stem Cell Reports. https://doi.org/10.1016/j.stemcr.2024.05.004 <br>
+- **Benchmarking brain organoid recapitulation of fetal corticogenesis.** *Cheroni et al.*, Translational Psychiatry. https://doi.org/10.1038/s41398-022-02279-0<br>
+- **A nomenclature consensus for nervous system organoids and assembloids.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-022-05219-6<br>
 </details>
 
 ## 🟣 📌Atlases
@@ -44,6 +61,7 @@ At the current stage the resource encompasses:  **14 among atlases and single-ce
 The resource is meant to provide both harmonized data and a set of methods to facilitate the extension with new datasets, integration, differential expression and comparative analysis.
 <details>
   <summary>Additional Atlases publications</summary>
+  
 - **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
 </details>
 
@@ -52,23 +70,13 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 ## Additional publications
 - **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
-- **Specification of a rostro-caudal axis in cortical assembloids through a polarized source of FGF8.** *Bosone et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02412-5 [GitHub: https://github.com/GiuseppeTestaLab/polCAs/]<br>
-- **Engineering Toxoplasma gondii secretion systems for intracellular delivery of multiple large therapeutic proteins to neurons.** *Bracha et al.*, Nature Microbiology. https://doi.org/10.1038/s41564-024-01750-6 <br>
-- **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
 - **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
 - **Different Names for the Same Thing? Novelty, Expectations, and Performative Nominalism in Personalized and Precision Medicine.** *Galasso et al.*, Social Theory & Health. https://doi.org/10.1057/s41285-024-00203-8<br>
-- **In and out: Benchmarking in vitro, in vivo, ex vivo, and xenografting approaches for an integrative brain disease modeling pipeline.** *Pereira et al.*, Stem Cell Reports. https://doi.org/10.1016/j.stemcr.2024.05.004 <br>
-- **Tumor microenvironment-induced FOXM1 regulates ovarian cancer stemness.** *Battistini et al.*, Cell Death & Disease. https://doi.org/10.1038/s41419-024-06767-7 <br>
 - **Curation of causal interactions mediated by genes associated with autism accelerates the understanding of gene-phenotype relationships underlying neurodevelopmental disorders.** *Iannuccelli et al.*, Molecular Psychiatry. https://doi.org/10.1038/s41380-023-02317-3 [GitHub https://github.com/SaccoPerfettoLab/ProxPath.]<br>
-- **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 - **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
-- **Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism.** *D'Incal et al.*, Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8]<br>
 - **Editorial: Cell biology of brain development and evolution.** *Mora-Bermúdez et al.*, Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1147510 <br>
 - **H3K27me3 Demethylases Maintain the Transcriptional and Epigenomic Landscape of the Intestinal Epithelium.** *Kolev et al.*, Cellular and Molecular Gastroenterology and Hepatology. https://doi.org/10.1016/j.jcmgh.2022.12.001 <br>
-- **Benchmarking brain organoid recapitulation of fetal corticogenesis.** *Cheroni et al.*, Translational Psychiatry. https://doi.org/10.1038/s41398-022-02279-0<br>
 - **The Transcriptional Regulator Prdm1 Is Essential for the Early Development of the Sensory Whisker Follicle and Is Linked to the Beta-Catenin First Dermal Signal.** *Manti et al.*, Biomedicines. https://doi.org/10.3390/biomedicines10102647 <br>
-- **A nomenclature consensus for nervous system organoids and assembloids.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-022-05219-6<br>
-- **Integrated molecular profiling of patient-derived ovarian cancer models identifies clinically relevant signatures and tumor vulnerabilities.** *Lupia et al.*, International Journal of Cancer. https://doi.org/10.1002/ijc.33983 <br>
 - **Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens.** *Andirkó et al.*, Scientific Reports. https://doi.org/10.1038/s41598-022-13589-0 [GitHub https://github.com/AGMAndirko/Temporal-mapping].<br>
 - **EZH2-Mediated H3K27me3 Targets Transcriptional Circuits of Neuronal Differentiation.** *Buontempo et al.*, Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2022.814144 <br>
 - **CHD8 haploinsufficiency links autism to transient alterations in excitatory and inhibitory trajectories.** *Villa et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2022.110615<br>
