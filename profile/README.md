@@ -34,6 +34,7 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 
 <details>
   <summary>Additional Methodological innovation publications</summary>
+  - **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
 </details>
 
 ## 🟣 📌Atlases
@@ -41,14 +42,16 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
 At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
 The resource is meant to provide both harmonized data and a set of methods to facilitate the extension with new datasets, integration, differential expression and comparative analysis.
+<details>
+  <summary>Additional Atlases publications</summary>
+- **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
+</details>
 
 
 
 ## Additional publications
 - **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
-- **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
-- **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
 - **Specification of a rostro-caudal axis in cortical assembloids through a polarized source of FGF8.** *Bosone et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02412-5 [GitHub: https://github.com/GiuseppeTestaLab/polCAs/]<br>
 - **Engineering Toxoplasma gondii secretion systems for intracellular delivery of multiple large therapeutic proteins to neurons.** *Bracha et al.*, Nature Microbiology. https://doi.org/10.1038/s41564-024-01750-6 <br>
 - **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
