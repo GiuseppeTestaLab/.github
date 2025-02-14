@@ -13,6 +13,10 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 ## 🟠 📌 Methodological innovation
 
+- **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release]<br>
+The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
+
+
 ## 🟣 📌Atlases
 - <span style="font-size: 25px;">__Single-cell human brain development atlas__.</span> *Manuscript in preparation* <br>
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
@@ -25,7 +29,6 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
-- **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release]<br>
 - **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
 - **Specification of a rostro-caudal axis in cortical assembloids through a polarized source of FGF8.** *Bosone et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02412-5 [GitHub: https://github.com/GiuseppeTestaLab/polCAs/]<br>
 - **Engineering Toxoplasma gondii secretion systems for intracellular delivery of multiple large therapeutic proteins to neurons.** *Bracha et al.*, Nature Microbiology. https://doi.org/10.1038/s41564-024-01750-6 <br>
