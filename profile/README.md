@@ -2,8 +2,8 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-[Genetics NDD](##genetics-ndd)
-[Atlases](##atlases)
+[Genetics NDD](##--genetics-ndd)
+[Atlases](##--atlases)
 
 ## 🔵  Genetics NDD
 
