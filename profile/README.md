@@ -7,6 +7,7 @@
 ## 🟢 📌 Environment NDD
 
 - **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
+The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
 
 ## 🟡 📌 Cancer
 
