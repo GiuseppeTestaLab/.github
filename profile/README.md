@@ -2,8 +2,11 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-[Genetics NDD](#--genetics-ndd)
-[Atlases](#--atlases)
+[Genetics NDD](#--genetics-ndd)<br>
+[Environment NDD](#--environment-ndd)<br>
+[Cancer](#--cancer)<br>
+[Methodological innovation](#--methodological-innovation)<br>
+[Atlases](#--atlases)<br>
 
 ## 🔵  Genetics NDD
 
