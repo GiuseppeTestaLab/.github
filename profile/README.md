@@ -1,16 +1,16 @@
 # Main Testalab publications by category
 
-## 🔴 Cohorts
+## 🔴 📌 Cohorts
 
-## 🔵 Genetics NDD
+## 🔵 📌 Genetics NDD
 
-## 🟢 Environment NDD
+## 🟢 📌 Environment NDD
 
-## 🟡 Cancer
+## 🟡 📌 Cancer
 
-## 🟠 Methodological innovation
+## 🟠 📌 Methodological innovation
 
-## 🟣Atlases
+## 🟣 📌Atlases
 - <span style="font-size: 25px;">__Single-cell human brain development atlas__.</span><br>
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
 At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
