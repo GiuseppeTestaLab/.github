@@ -44,7 +44,7 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 
 
 ## Additional publications
-- **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914<br>
+- **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
