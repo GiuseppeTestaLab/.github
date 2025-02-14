@@ -6,7 +6,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 
 [Covid](#--covid)<br>
 [Evolution](#--evolution)<br>
-[Science and technology studies (STS),](#--science-and-technology-studies-sts)<br>
+[Science and technology studies (STS)](#--science-and-technology-studies-sts)<br>
 [Genetics NDD](#--genetics-ndd)<br>
 [Environment NDD](#--environment-ndd)<br>
 [Cancer](#--cancer)<br>
@@ -14,8 +14,39 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Atlases](#--atlases)<br>
 [Others](#--genetics-ndd)<br>
 
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Genetics NDD
+- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
+This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+
+<details>
+  <summary>Additional Genetics NDD publications</summary>
+
+</details>
+
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Evolution
+
+- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
+This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+
+<details>
+  <summary>Additional Genetics NDD publications</summary>
+
+</details>
+
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
+
+- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
+This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+
+<details>
+  <summary>Additional Genetics NDD publications</summary>
+
+</details>
+
+
+
+## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Science and technology studies (STS)
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
@@ -80,7 +111,16 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 - **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
 </details>
 
-
+## 🟣  Others
+- 📌 <span style="font-size: 25px;">__Single-cell human brain development atlas__.</span> *Manuscript in preparation* <br>
+Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
+At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
+The resource is meant to provide both harmonized data and a set of methods to facilitate the extension with new datasets, integration, differential expression and comparative analysis.
+<details>
+  <summary>Additional Atlases publications</summary>
+  
+- **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
+</details>
 
 ## Additional publications
 - **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
