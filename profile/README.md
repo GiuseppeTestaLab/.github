@@ -37,9 +37,9 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
   
 </details>
 
-## 🟡 📌 Cancer
+## 🟡  Cancer
 
-- **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
+- 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 
 <details>
   <summary>Additional cancer publications</summary>
