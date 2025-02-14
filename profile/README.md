@@ -6,6 +6,8 @@
 
 ## 🟢 📌 Environment NDD
 
+- **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
+
 ## 🟡 📌 Cancer
 
 ## 🟠 📌 Methodological innovation
@@ -45,7 +47,6 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 - **EZH2-Mediated H3K27me3 Targets Transcriptional Circuits of Neuronal Differentiation.** *Buontempo et al.*, Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2022.814144 <br>
 - **CHD8 haploinsufficiency links autism to transient alterations in excitatory and inhibitory trajectories.** *Villa et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2022.110615<br>
 - **Single cell-derived spheroids capture the self-renewing subpopulations of metastatic ovarian cancer.** *Velletri et al.*, Cell Death & Differentiation. https://doi.org/10.1038/s41418-021-00878-w <br>
-- **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 - **Imbalanced autophagy causes synaptic deficits in a human model for neurodevelopmental disorders.** *Linda et al.*, Autophagy. https://doi.org/10.1080/15548627.2021.1936777<br>
 - **Thymic stroma and TFII-I: towards new targeted therapies.** *Manti et al.*, Trends in Molecular Medicine. https://doi.org/10.1016/j.molmed.2021.10.008 <br>
 - **Exploiting epigenetic dependencies in ovarian cancer therapy.** Coughlan and Testa, International Journal of Cancer. https://doi.org/10.1002/ijc.33727 <br>
