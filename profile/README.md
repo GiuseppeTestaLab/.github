@@ -25,7 +25,7 @@ This paper shows, for the first time, developmental trajectories as clinically r
 
 </details>
 
-## ![pin icon](./icons/techDev.png) Genetics NDD
+## <img src="./icons/techDev.png" alt="pin icon" style="height: 1em; vertical-align: middle;"> Genetics NDD
 
 ## 🟢  Environment NDD
 
