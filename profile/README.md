@@ -14,7 +14,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Atlases](#--atlases)<br>
 [Others](#--others)<br>
 
-## <img src="./icons/covid.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
+## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
 
 - 📌 
 <details>
@@ -22,7 +22,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 
 </details>
 
-## <img src="./icons/skull2.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Evolution
+## <img src="./icons/skull2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Evolution
 
 - 📌
 
