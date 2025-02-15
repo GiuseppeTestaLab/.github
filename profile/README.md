@@ -2,9 +2,19 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
+| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[STS](#--science-and-technology-studies-sts)<br> |
+| :--------------: | :--------------: | :--------------: |
+| <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
 
+| [Genetics](#--genetics-ndd)<br> | [Environment](#--environment-ndd)<br> |[Cancer](#--cancer)<br>|
+| :--------------: | :--------------: | :--------------: |
+|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
 
-[Covid](#--covid)<br>
+| [MI](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [Others](#--others)<br> |
+| :--------------: | :--------------: | :--------------: |
+|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/other.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
+
+<!-- [Covid](#--covid)<br>
 [Evolution](#--evolution)<br>
 [Science and technology studies (STS)](#--science-and-technology-studies-sts)<br>
 [Genetics NDD](#--genetics-ndd)<br>
@@ -12,7 +22,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Cancer](#--cancer)<br>
 [Methodological innovation](#--methodological-innovation)<br>
 [Atlases](#--atlases)<br>
-[Others](#--others)<br>
+[Others](#--others)<br> -->
 
 ## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
 
