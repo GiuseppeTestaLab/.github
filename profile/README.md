@@ -8,7 +8,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 
 | [Genetics](#--genetics-ndd)<br> | [Environment](#--environment-ndd)<br> |[Cancer](#--cancer)<br>|
 | :--------------: | :--------------: | :--------------: |
-|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
+|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
 
 | [MI](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [Others](#--others)<br> |
 | :--------------: | :--------------: | :--------------: |
@@ -91,7 +91,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
   
 </details>
 
-## <img src="./icons/HGSOC.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Cancer
+## <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Cancer
 
 - 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 
