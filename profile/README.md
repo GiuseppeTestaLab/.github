@@ -14,20 +14,20 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Atlases](#--atlases)<br>
 [Others](#--others)<br>
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
+## <img src="./icons/covid.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Covid
 
 - 📌 
 <details>
-  <summary>Additional Genetics NDD publications</summary>
+  <summary>Additional Covid publications</summary>
 
 </details>
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Evolution
+## <img src="./icons/skull2.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Evolution
 
 - 📌
 
 <details>
-  <summary>Additional Genetics NDD publications</summary>
+  <summary>Additional Evolution publications</summary>
 
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
@@ -39,25 +39,23 @@ Here is the complete list of publications from the lab divided by themes, with t
 In this paper we finally demonstrate ...<br>
 
 <details>
-  <summary>Additional Genetics NDD publications</summary>
+  <summary>Additional Epigenetics publications</summary>
 
 </details>
 
 
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Science and technology studies (STS)
+## <img src="./icons/sts.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Science and technology studies (STS)
 
-- 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
-
+- 📌 
 <details>
-  <summary>Additional Genetics NDD publications</summary>
+  <summary>Additional STS publications</summary>
   
 
 </details>
 
 
-## <img src="./icons/dna.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Genetics NDD
+## <img src="./icons/ndd.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Genetics NDD
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
@@ -72,7 +70,7 @@ This paper shows, for the first time, developmental trajectories as clinically r
 </details>
 
 
-## <img src="./icons/chemical.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Environment NDD
+## <img src="./icons/enviroment.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Environment NDD
 
 - 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
@@ -83,19 +81,19 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
   
 </details>
 
-## <img src="./icons/cancer.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Cancer
+## <img src="./icons/HGSOC.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Cancer
 
 - 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
 
 <details>
-  <summary>Additional cancer publications</summary>
+  <summary>Additional Cancer publications</summary>
   
 - **Tumor microenvironment-induced FOXM1 regulates ovarian cancer stemness.** *Battistini et al.*, Cell Death & Disease. https://doi.org/10.1038/s41419-024-06767-7 <br>
 - **Integrated molecular profiling of patient-derived ovarian cancer models identifies clinically relevant signatures and tumor vulnerabilities.** *Lupia et al.*, International Journal of Cancer. https://doi.org/10.1002/ijc.33983 <br>
 </details>
 
 
-## <img src="./icons/techDev.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Methodological innovation
+## <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 1em; vertical-align: middle;">  Methodological innovation
 
 - 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
 The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
