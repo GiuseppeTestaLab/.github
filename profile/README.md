@@ -109,7 +109,7 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 - **A nomenclature consensus for nervous system organoids and assembloids.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-022-05219-6<br>
 </details>
 
-## 🟣  Atlases
+## <img src="./icons/atlas.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Atlases
 - 📌 <span style="font-size: 25px;">__Single-cell human brain development atlas__.</span> *Manuscript in preparation* <br>
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
 At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
@@ -120,7 +120,7 @@ The resource is meant to provide both harmonized data and a set of methods to fa
 - **An integrated transcriptomic cell atlas of human neural organoids.** *He et al.*, Nature. https://doi.org/10.1038/s41586-024-08172-8 <br>
 </details>
 
-## 🟣  Others
+## <img src="./icons/other.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Others
 - 📌 <span style="font-size: 25px;">__Single-cell human brain development atlas__.</span> *Manuscript in preparation* <br>
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
 At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
