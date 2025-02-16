@@ -2,7 +2,7 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--science-and-technology-studies-sts)<br> |
+| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
 | :--------------: | :--------------: | :--------------: |
 | <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
 
