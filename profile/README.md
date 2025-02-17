@@ -14,22 +14,15 @@ Here is the complete list of publications from the lab divided by themes, with t
 | :-----: | :-----: | :-----: |
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">| -->
 
-<table width="15em" cellspacing="0" cellpadding="0">
-  <thead>
-    <tr>
-      <th style="width: 5em;">Neuro development</th>
-      <th style="width: 5em;">Endocrine disruptors</th>
-      <th style="width: 5em;">Cancer</th>
-    </tr>
-  </thead>
+<!-- <table width="15em" cellspacing="0" cellpadding="0">
   <tbody>
-    <tr>
-      <td style="width: 5em;"><img src="./icons/ndd.png"/></td>
-      <td style="width: 5em;"><img src="./icons/enviroment.png"/></td>
-      <td style="width: 5em;"><img src="./icons/HGSOC2.png"/></td>
+    <tr style="height: 7em">
+      <td style="width: 5em;">Neuro development<img src="./icons/ndd.png"/></td>
+      <td style="width: 5em;">Endocrine disruptors<img src="./icons/enviroment.png"/></td>
+      <td style="width: 5em;">Cancer<img src="./icons/HGSOC2.png"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ||||
 | :-----: | :-----: | :-----: |
