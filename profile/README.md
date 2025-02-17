@@ -1,14 +1,14 @@
-# Main Testalab publications by category
+# TestaLab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
-
-| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
-| :--------------: | :--------------: | :--------------: |
-| <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
 
 | [Genetics](#--genetics-ndd)<br> | [Environment](#--environment-ndd)<br> |[Cancer](#--cancer)<br>|
 | :--------------: | :--------------: | :--------------: |
 |<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
+
+| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
+| :--------------: | :--------------: | :--------------: |
+| <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
 
 | [Methods](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [STS](#--science-and-technology-studies-sts)<br> |
 | :--------------: | :--------------: | :--------------: |
