@@ -14,9 +14,26 @@ Here is the complete list of publications from the lab divided by themes, with t
 | :-----: | :-----: | :-----: |
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">| -->
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="29%">Neurodevelopment</th>
+      <th width="29%">Endocrine disruptors</th>
+      <th width="29%">Cancer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="29%"><img src="./icons/ndd.png"/></td>
+      <td width="29%"><img src="./icons/enviroment.png"/></td>
+      <td width="29%"><img src="./icons/HGSOC2.png"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ||||
 | :-----: | :-----: | :-----: |
-|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Neuro- <br>development](#--genetics)|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Endocrine <br>disruptors](#--environment)|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[ <br>Cancer](#--cancer)|
+|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Neuro<br>development](#--genetics)|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Endocrine<br>disruptors](#--environment)|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[ <br>Cancer](#--cancer)|
 |<img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Covid-19](#--covid)|<img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Evolution](#--evolution)| <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Epigenetics](#--epigenetics)|
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Methods](#--methodological-innovation)|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Atlases](#--atlases)|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[STS](#--science-and-technology-studies-sts)|
 
