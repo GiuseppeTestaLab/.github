@@ -18,7 +18,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Evolution](#--evolution)<br>
 [Science and technology studies (STS)](#--science-and-technology-studies-sts)<br>
 [Genetics NDD](#--genetics-ndd)<br>
-[Environment NDD](#--environment-ndd)<br>
+[Environment](#--environment-ndd)<br>
 [Cancer](#--cancer)<br>
 [Methodological innovation](#--methodological-innovation)<br>
 [Atlases](#--atlases)<br>
@@ -56,13 +56,13 @@ This paper shows, for the first time, developmental trajectories as clinically r
 </details>
 
 
-## <img src="./icons/enviroment.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Environment NDD
+## <img src="./icons/enviroment.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Environment
 
 - 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
 The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
 
 <details>
-  <summary>Additional Environment NDD publications</summary>
+  <summary>Additional Environment publications</summary>
 
 - **Acting on uncertainty: real-life mixtures of endocrine disrupting chemicals.** Even Chorev and Testa, BioSocieties. https://doi.org/10.1057/s41292-020-00192-7 <br>
 - **Autism spectrum disorder at the crossroad between genes and environment: contributions, convergences, and interactions in ASD developmental pathophysiology.** *Cheroni et al.*, Molecular Autism. https://doi.org/10.1186/s13229-020-00370-1 <br>
