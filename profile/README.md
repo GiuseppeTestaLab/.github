@@ -2,11 +2,11 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-| [Neurodevelopment](#--genetics)<br> | [Endocrine <br>drisruptors](#--environment)<br> |[  Cancer                ](#--cancer)<br>|
+| [Neurodevelopment](#--genetics)<br> | [Endocrine <br>disruptors](#--environment)<br> |[  Cancer                ](#--cancer)<br>|
 | :--------------: | :--------------: | :--------------: |
 |<img src="./icons/ndd.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|
 
-| [Covid19](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
+| [Covid-19](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
 | :--------------: | :--------------: | :--------------: |
 | <img src="./icons/covid.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> |
 
