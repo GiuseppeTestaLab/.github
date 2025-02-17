@@ -2,7 +2,7 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-| [Genetics](#--genetics-ndd)<br> | [Environment](#--environment-ndd)<br> |[Cancer](#--cancer)<br>|
+| [Genetics](#--genetics)<br> | [Environment](#--environment)<br> |[Cancer](#--cancer)<br>|
 | :--------------: | :--------------: | :--------------: |
 |<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
 
@@ -14,23 +14,15 @@ Here is the complete list of publications from the lab divided by themes, with t
 | :--------------: | :--------------: | :--------------: |
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
 
-<!-- [Covid](#--covid)<br>
-[Evolution](#--evolution)<br>
-[Science and technology studies (STS)](#--science-and-technology-studies-sts)<br>
-[Genetics NDD](#--genetics-ndd)<br>
-[Environment](#--environment-ndd)<br>
-[Cancer](#--cancer)<br>
-[Methodological innovation](#--methodological-innovation)<br>
-[Atlases](#--atlases)<br>
-[Others](#--others)<br> -->
 
-## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Genetics NDD
+
+## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Genetics
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
 
 <details>
-  <summary>Additional Genetics NDD publications</summary>
+  <summary>Additional Genetics publications</summary>
   
 - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
@@ -58,7 +50,9 @@ This paper shows, for the first time, developmental trajectories as clinically r
 
 ## <img src="./icons/enviroment.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Environment
 
-- 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/]<br>
+- 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/] <br>
+*Associated Perspective*
+https://doi.org/10.1126/science.abn9080 <br>
 The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
 
 <details>
@@ -106,11 +100,12 @@ this is the description
 ## <img src="./icons/skull2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Evolution
 
 - 📌 **Dosage analysis of the 7q11.23 Williams region identifies BAZ1B as a major human gene patterning the modern human face and underlying self-domestication.** *Zanella et al.*, Science Advances. https://doi.org/10.1126/sciadv.aaw7908 <br>
-This is the descrption
+This is the first experimental demonstration of human self-domestication leveraging disease modelling of neurodevelopmental disorders.
 
 <details>
   <summary>Additional Evolution publications</summary>
 
+- **CHD2 Dosage Ties Autolysosomal Pathway to Cortical Maturation in Disease and Evolution** *Oliviero Leonardi et al.* Biorxiv. https://doi.org/10.1101/2025.01.21.634145<br> 
 - **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
 - **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
 - **Editorial: Cell biology of brain development and evolution.** *Mora-Bermúdez et al.*, Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1147510 <br>
@@ -169,6 +164,7 @@ this is the description
 ## <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Methodological innovation
 
 - 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
+*Associated Research Briefing* https://doi.org/10.1038/s41592-024-02556-4 <br>
 The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
 
 <details>
