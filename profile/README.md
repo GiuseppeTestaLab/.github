@@ -14,7 +14,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 | :-----: | :-----: | :-----: |
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">| -->
 
-<table width="100%">
+<table width="450px" cellspacing="0" cellpadding="0">
   <thead>
     <tr>
       <th style="width: 150px;">Neurodevelopment</th>
