@@ -207,6 +207,7 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 this is the description
 <details>
   <summary>Additional Atlases publications</summary>
+
 - **Single-cell human brain development atlas** *Manuscript in preparation* <br>
 Ongoing project aiming to curate and integrate an extensive collection of Single-cell resolution dataset from developing human brain.<br>
 At the current stage the resource encompasses:  **14 among atlases and single-cegion datasets**, **31 distinct PCW** (7 to 33), **4 Major brain areas** and and **6 subregions** for the cortical area.<br>
