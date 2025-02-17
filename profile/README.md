@@ -17,16 +17,16 @@ Here is the complete list of publications from the lab divided by themes, with t
 <table width="100%">
   <thead>
     <tr>
-      <th width="29%">Neurodevelopment</th>
-      <th width="29%">Endocrine disruptors</th>
-      <th width="29%">Cancer</th>
+      <th style="width: 150px;">Neurodevelopment</th>
+      <th style="width: 150px;">Endocrine disruptors</th>
+      <th style="width: 150px;">Cancer</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="29%"><img src="./icons/ndd.png"/></td>
-      <td width="29%"><img src="./icons/enviroment.png"/></td>
-      <td width="29%"><img src="./icons/HGSOC2.png"/></td>
+      <td style="width: 150px;"><img src="./icons/ndd.png"/></td>
+      <td style="width: 150px;"><img src="./icons/enviroment.png"/></td>
+      <td style="width: 150px;"><img src="./icons/HGSOC2.png"/></td>
     </tr>
   </tbody>
 </table>
