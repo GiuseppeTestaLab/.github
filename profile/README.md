@@ -24,78 +24,6 @@ Here is the complete list of publications from the lab divided by themes, with t
 [Atlases](#--atlases)<br>
 [Others](#--others)<br> -->
 
-## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
-
-- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
-<details>
-  <summary>Additional Covid publications</summary>
-
-- **COVID-19 lessons from the dish: Dissecting CNS manifestations through brain organoids.** Caporale and Testa, EMBO Journal. https://doi.org/10.15252/embj.2020107213 <br>
-</details>
-
-## <img src="./icons/skull2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Evolution
-
-- 📌 **Dosage analysis of the 7q11.23 Williams region identifies BAZ1B as a major human gene patterning the modern human face and underlying self-domestication.** *Zanella et al.*, Science Advances. https://doi.org/10.1126/sciadv.aaw7908 <br>
-This is the descrption
-
-<details>
-  <summary>Additional Evolution publications</summary>
-
-- **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
-- **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
-- **Editorial: Cell biology of brain development and evolution.** *Mora-Bermúdez et al.*, Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1147510 <br>
-- **Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens.** *Andirkó et al.*, Scientific Reports. https://doi.org/10.1038/s41598-022-13589-0 [GitHub https://github.com/AGMAndirko/Temporal-mapping].<br>
-</details>
-
-## <img src="./icons/dna.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Epigenetics
-
-- 📌 **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
-In this paper we finally demonstrate ...<br>
-
-<details>
-  <summary>Additional Epigenetics publications</summary>
-
-- **H3K27me3 Demethylases Maintain the Transcriptional and Epigenomic Landscape of the Intestinal Epithelium.** *Kolev et al.*, Cellular and Molecular Gastroenterology and Hepatology. https://doi.org/10.1016/j.jcmgh.2022.12.001 <br>
-- **From enhanceropathies to the epigenetic manifold underlying human cognition.** *Vitriolo et al.*, Human Molecular Genetics. https://doi.org/10.1093/hmg/ddz196<br>
-- **The chromatin basis of neurodevelopmental disorders: Rethinking dysfunction along the molecular and temporal axes.** *Gabriele et al.*, Progress in Neuropsychopharmacology & Biological Psychiatry. https://doi.org/10.1016/j.pnpbp.2017.12.013 <br>
-- **KMT2B and Neuronal Transdifferentiation: Bridging Basic Chromatin Mechanisms to Disease Actionability.** *Barbagiovanni et al.*, Neuroscience Insights. https://doi.org/10.1177/2633105520928068 <br>
-- **Scrutinizing the epigenetics revolution.** Meloni and Testa, Biosocieties. https://doi.org/10.1057/biosoc.2014.22 <br>
-- **Activation of neuronal gene expression by the JMJD3 demethylase is required for postnatal and adult brain neurogenesis.** *Park et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2014.07.060 <br>
-- **Germinal center dysregulation by histone methyltransferase EZH2 promotes lymphomagenesis.** *Caganova et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI70626 <br>
-- **The H3K27 demethylase JMJD3 is required for maintenance of the embryonic respiratory neuronal network, neonatal breathing, and survival.** *Burgold et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2012.09.013 <br>
-- **The histone methyltransferase Wbp7 controls macrophage function through GPI glycolipid anchor synthesis.** *Austenaa et al.*, Immunity. https://doi.org/10.1016/j.immuni.2012.02.016 <br>
-- **The future therapeutic potential of histone demethylases: A critical analysis.** Natoli, Testa, and De Santa, Current Opinion in Drug Discovery & Development. https://pubmed.ncbi.nlm.nih.gov/19736620/ <br>
-- **The histone H3 lysine 27-specific demethylase Jmjd3 is required for neural commitment.** *Burgold et al.*, PLoS One. https://doi.org/10.1371/journal.pone.0003034 <br>
-
-</details>
-
-
-
-## <img src="./icons/sts.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Science and technology studies (STS)
-
-- 📌 **Scrutinizing the EU General Data Protection Regulation.** Marelli and Testa, Science. https://doi.org/10.1126/science.aar5419 <br>
-this is the description
-<details>
-  <summary>Additional STS publications</summary>
-
-- **Different Names for the Same Thing? Novelty, Expectations, and Performative Nominalism in Personalized and Precision Medicine.** *Galasso et al.*, Social Theory & Health. https://doi.org/10.1057/s41285-024-00203-8<br>
-- **Big Tech platforms in health research: Re-purposing big data governance in light of the General Data Protection Regulation’s research exemption.** *Marelli et al.*, Big Data & Society. https://doi.org/10.1177/20539517211018783<br>
-- **Rethinking Human Embryo Research Policies.** *Matthews et al.*, Hastings Center Report. https://doi.org/10.1002/hast.1215 <br>
-- **Thinking “ethical” when designing an international, cross-disciplinary biomedical research consortium.** *Torres-Padilla et al.*, EMBO Journal. https://doi.org/10.15252/embj.2020105725 <br>
-- **The European politics of animal experimentation: From Victorian Britain to 'Stop Vivisection'.** Germain, Chiapperino, and Testa, Studies in History and Philosophy of Biological and Biomedical Sciences. https://doi.org/10.1016/j.shpsc.2017.06.004 <br>
-- **Multiplex parenting: IVG and the generations to come.** *Palacios-González et al.*, Journal of Medical Ethics. https://doi.org/10.1136/medethics-2013-101810 <br>
-- **Position statement on the provision and procurement of human eggs for stem cell research.** *Haimes et al.*, Cell Stem Cell. https://doi.org/10.1016/j.stem.2013.02.002 <br>
-- **Reprogramming potentiality: the co-production of stem cell policy and democracy.** Testa, American Journal of Bioethics. https://doi.org/10.1080/15265161.2012.747032 <br>
-- **Consuming genomes: scientific and social innovation in direct-to-consumer genetic testing.** Curnutte and Testa, New Genetics and Society. https://doi.org/10.1080/14636778.2012.662032 <br>
-- **The Identity of Living Beings, Epigenetics, and the Modesty of Philosophy.** Boniolo and Testa, Erkenntnis. https://doi.org/10.1007/s10670-011-9308-9 <br>
-- **Stem-cell theatrics.** Testa, Nature. https://doi.org/10.1038/4651012a <br>
-- **What to do with the Grail now that we have it? iPSCs, potentiality, and public policy.** Testa, Cell Stem Cell. https://doi.org/10.1016/j.stem.2009.09.007 <br>
-- **Ethics report on interspecies somatic cell nuclear transfer research.** *Skene et al.*, Cell Stem Cell. https://doi.org/10.1016/j.stem.2009.06.010 <br>
-- **Stem Cells through Stem Beliefs: The Co-production of Biotechnological Pluralism.** Testa, Science as Culture. https://doi.org/10.1080/09505430802519199 <br>
-- **Neuroscience from different angles. Student symposium: From genes to thoughts.** *Schell et al.*, EMBO Reports. https://doi.org/10.1093/embo-reports/kve112 <br>
-</details>
-
-
 ## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Genetics NDD
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
@@ -165,6 +93,78 @@ this is the description
 - **Polycomb dysregulation in gliomagenesis targets a Zfp423-dependent differentiation network.** *Signaroldi et al.*, Nature Communications. https://doi.org/10.1038/ncomms10753 <br>
 - **The methyltransferase Set7/9 (Setd7) is dispensable for the p53-mediated DNA damage response in vivo.** *Campaner et al.*, Molecular Cell. https://doi.org/10.1016/j.molcel.2011.08.007 <br>
 
+</details>
+
+
+## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
+
+- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
+<details>
+  <summary>Additional Covid publications</summary>
+
+- **COVID-19 lessons from the dish: Dissecting CNS manifestations through brain organoids.** Caporale and Testa, EMBO Journal. https://doi.org/10.15252/embj.2020107213 <br>
+</details>
+
+## <img src="./icons/skull2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Evolution
+
+- 📌 **Dosage analysis of the 7q11.23 Williams region identifies BAZ1B as a major human gene patterning the modern human face and underlying self-domestication.** *Zanella et al.*, Science Advances. https://doi.org/10.1126/sciadv.aaw7908 <br>
+This is the descrption
+
+<details>
+  <summary>Additional Evolution publications</summary>
+
+- **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
+- **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
+- **Editorial: Cell biology of brain development and evolution.** *Mora-Bermúdez et al.*, Frontiers in Cell and Developmental Biology. https://doi.org/10.3389/fcell.2023.1147510 <br>
+- **Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens.** *Andirkó et al.*, Scientific Reports. https://doi.org/10.1038/s41598-022-13589-0 [GitHub https://github.com/AGMAndirko/Temporal-mapping].<br>
+</details>
+
+## <img src="./icons/dna.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Epigenetics
+
+- 📌 **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
+In this paper we finally demonstrate ...<br>
+
+<details>
+  <summary>Additional Epigenetics publications</summary>
+
+- **H3K27me3 Demethylases Maintain the Transcriptional and Epigenomic Landscape of the Intestinal Epithelium.** *Kolev et al.*, Cellular and Molecular Gastroenterology and Hepatology. https://doi.org/10.1016/j.jcmgh.2022.12.001 <br>
+- **From enhanceropathies to the epigenetic manifold underlying human cognition.** *Vitriolo et al.*, Human Molecular Genetics. https://doi.org/10.1093/hmg/ddz196<br>
+- **The chromatin basis of neurodevelopmental disorders: Rethinking dysfunction along the molecular and temporal axes.** *Gabriele et al.*, Progress in Neuropsychopharmacology & Biological Psychiatry. https://doi.org/10.1016/j.pnpbp.2017.12.013 <br>
+- **KMT2B and Neuronal Transdifferentiation: Bridging Basic Chromatin Mechanisms to Disease Actionability.** *Barbagiovanni et al.*, Neuroscience Insights. https://doi.org/10.1177/2633105520928068 <br>
+- **Scrutinizing the epigenetics revolution.** Meloni and Testa, Biosocieties. https://doi.org/10.1057/biosoc.2014.22 <br>
+- **Activation of neuronal gene expression by the JMJD3 demethylase is required for postnatal and adult brain neurogenesis.** *Park et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2014.07.060 <br>
+- **Germinal center dysregulation by histone methyltransferase EZH2 promotes lymphomagenesis.** *Caganova et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI70626 <br>
+- **The H3K27 demethylase JMJD3 is required for maintenance of the embryonic respiratory neuronal network, neonatal breathing, and survival.** *Burgold et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2012.09.013 <br>
+- **The histone methyltransferase Wbp7 controls macrophage function through GPI glycolipid anchor synthesis.** *Austenaa et al.*, Immunity. https://doi.org/10.1016/j.immuni.2012.02.016 <br>
+- **The future therapeutic potential of histone demethylases: A critical analysis.** Natoli, Testa, and De Santa, Current Opinion in Drug Discovery & Development. https://pubmed.ncbi.nlm.nih.gov/19736620/ <br>
+- **The histone H3 lysine 27-specific demethylase Jmjd3 is required for neural commitment.** *Burgold et al.*, PLoS One. https://doi.org/10.1371/journal.pone.0003034 <br>
+
+</details>
+
+
+
+## <img src="./icons/sts.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Science and technology studies (STS)
+
+- 📌 **Scrutinizing the EU General Data Protection Regulation.** Marelli and Testa, Science. https://doi.org/10.1126/science.aar5419 <br>
+this is the description
+<details>
+  <summary>Additional STS publications</summary>
+
+- **Different Names for the Same Thing? Novelty, Expectations, and Performative Nominalism in Personalized and Precision Medicine.** *Galasso et al.*, Social Theory & Health. https://doi.org/10.1057/s41285-024-00203-8<br>
+- **Big Tech platforms in health research: Re-purposing big data governance in light of the General Data Protection Regulation’s research exemption.** *Marelli et al.*, Big Data & Society. https://doi.org/10.1177/20539517211018783<br>
+- **Rethinking Human Embryo Research Policies.** *Matthews et al.*, Hastings Center Report. https://doi.org/10.1002/hast.1215 <br>
+- **Thinking “ethical” when designing an international, cross-disciplinary biomedical research consortium.** *Torres-Padilla et al.*, EMBO Journal. https://doi.org/10.15252/embj.2020105725 <br>
+- **The European politics of animal experimentation: From Victorian Britain to 'Stop Vivisection'.** Germain, Chiapperino, and Testa, Studies in History and Philosophy of Biological and Biomedical Sciences. https://doi.org/10.1016/j.shpsc.2017.06.004 <br>
+- **Multiplex parenting: IVG and the generations to come.** *Palacios-González et al.*, Journal of Medical Ethics. https://doi.org/10.1136/medethics-2013-101810 <br>
+- **Position statement on the provision and procurement of human eggs for stem cell research.** *Haimes et al.*, Cell Stem Cell. https://doi.org/10.1016/j.stem.2013.02.002 <br>
+- **Reprogramming potentiality: the co-production of stem cell policy and democracy.** Testa, American Journal of Bioethics. https://doi.org/10.1080/15265161.2012.747032 <br>
+- **Consuming genomes: scientific and social innovation in direct-to-consumer genetic testing.** Curnutte and Testa, New Genetics and Society. https://doi.org/10.1080/14636778.2012.662032 <br>
+- **The Identity of Living Beings, Epigenetics, and the Modesty of Philosophy.** Boniolo and Testa, Erkenntnis. https://doi.org/10.1007/s10670-011-9308-9 <br>
+- **Stem-cell theatrics.** Testa, Nature. https://doi.org/10.1038/4651012a <br>
+- **What to do with the Grail now that we have it? iPSCs, potentiality, and public policy.** Testa, Cell Stem Cell. https://doi.org/10.1016/j.stem.2009.09.007 <br>
+- **Ethics report on interspecies somatic cell nuclear transfer research.** *Skene et al.*, Cell Stem Cell. https://doi.org/10.1016/j.stem.2009.06.010 <br>
+- **Stem Cells through Stem Beliefs: The Co-production of Biotechnological Pluralism.** Testa, Science as Culture. https://doi.org/10.1080/09505430802519199 <br>
+- **Neuroscience from different angles. Student symposium: From genes to thoughts.** *Schell et al.*, EMBO Reports. https://doi.org/10.1093/embo-reports/kve112 <br>
 </details>
 
 
