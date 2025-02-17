@@ -2,17 +2,17 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-| [Genetics](#--genetics)<br> | [Environment](#--environment)<br> |[Cancer](#--cancer)<br>|
+| [Neurodevelopment](#--genetics)<br> | [Endocrine <br>drisruptors](#--environment)<br> |[  Cancer                ](#--cancer)<br>|
 | :--------------: | :--------------: | :--------------: |
-|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
+|<img src="./icons/ndd.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|
 
-| [Covid](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
+| [Covid19](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
 | :--------------: | :--------------: | :--------------: |
-| <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
+| <img src="./icons/covid.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> |
 
 | [Methods](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [STS](#--science-and-technology-studies-sts)<br> |
 | :--------------: | :--------------: | :--------------: |
-|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
+|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|
 
 
 
