@@ -16,13 +16,13 @@ Here is the complete list of publications from the lab divided by themes, with t
 
 
 
-## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Genetics
+## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Neurodevelopment
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
 This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
 
 <details>
-  <summary>Additional Genetics publications</summary>
+  <summary>Additional Neurodevelopment publications</summary>
   
 - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
@@ -161,14 +161,14 @@ this is the description
 </details>
 
 
-## <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Methodological innovation
+## <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Methods
 
 - 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
 *Associated Research Briefing* https://doi.org/10.1038/s41592-024-02556-4 <br>
 The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
 
 <details>
-  <summary>Additional Methodological innovation publications</summary>
+  <summary>Additional Methods publications</summary>
   
 - **A framework for research with neural organoids, Assembloids and Transplantation Studies.** *Pașca et al.*, Nature. https://doi.org/10.1038/s41586-024-08487-6<br>
 - **Specification of a rostro-caudal axis in cortical assembloids through a polarized source of FGF8.** *Bosone et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02412-5 [GitHub: https://github.com/GiuseppeTestaLab/polCAs/]<br>
