@@ -63,9 +63,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 
 <details>
   <summary>Additional Environment NDD publications</summary>
-  
-- **Tile by tile: capturing the evolutionary mosaic of human conditions.** *Caporale et al.*, Current Opinion in Genetics and Development. In press. https://doi.org/10.1016/j.gde.2024.102297<br>
-- **A multi-layered integrative analysis reveals a cholesterol metabolic program in outer radial glia with implications for human brain evolution.** *Moriano et al.*, Development. https://doi.org/10.1242/dev.202390<br>
+
 - **Acting on uncertainty: real-life mixtures of endocrine disrupting chemicals.** Even Chorev and Testa, BioSocieties. https://doi.org/10.1057/s41292-020-00192-7 <br>
 - **Autism spectrum disorder at the crossroad between genes and environment: contributions, convergences, and interactions in ASD developmental pathophysiology.** *Cheroni et al.*, Molecular Autism. https://doi.org/10.1186/s13229-020-00370-1 <br>
 - **The ENDpoiNTs Project: Novel Testing Strategies for Endocrine Disruptors Linked to Developmental Neurotoxicity.** *Lupu et al.*, International Journal of Molecular Sciences. https://doi.org/10.3390/ijms21113978 <br>
