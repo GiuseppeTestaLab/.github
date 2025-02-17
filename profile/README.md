@@ -2,16 +2,16 @@
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
 
-| [Neurodevelopment](#--genetics)<br> | [Endocrine <br>disruptors](#--environment)<br> |[  Cancer                ](#--cancer)<br>|
-| :--------------: | :--------------: | :--------------: |
+| [Neurodevelopment](#--genetics)<br> | [Endocrine <br>disruptors](#--environment)<br> |[Cancer](#--cancer)<br>|
+| :-----: | :-----: | :-----: |
 |<img src="./icons/ndd.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|
 
 | [Covid-19](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
-| :--------------: | :--------------: | :--------------: |
+| :-----: | :-----: | :-----: |
 | <img src="./icons/covid.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 8em; vertical-align: middle;"> |
 
 | [Methods](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [STS](#--science-and-technology-studies-sts)<br> |
-| :--------------: | :--------------: | :--------------: |
+| :-----: | :-----: | :-----: |
 |<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 8em; vertical-align: middle;">|
 
 
@@ -68,7 +68,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 ## <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Cancer
 
 - 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
-this is the description
+This is the first demonstration based on epigenetic tracing of the dual origin of high grade serous ovarian cancer (HGSOC). Stratification of HGSOC based on our DNA methylation-based signature OriPrint revealed a worse prognosis for ovarian surface derived tumors, coupled to distinct transcriptional features associated with immune suppression and increased aggressiveness.
 <details>
   <summary>Additional Cancer publications</summary>
   
@@ -204,7 +204,7 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 
 ## <img src="./icons/atlas.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Atlases
 - 📌 **A harmonized ovarian cancer scRNA-seq atlas to dissect disease heterogeneity underlying metastatization and chemoresistance** *Sallese et al.*, Biorxiv.https://doi.org/10.1101/2025.02.11.637633 <br>
-this is the description
+This resource describes the first comprehensive single cell transcriptomics atlas (OvCA) for high grade serous tubo-ovarian cancer. Here we generated an ad hoc strategy for feature selection and data integration (Single Cell Atlas Integration Pipeline – SCAIP) that is able to capture patient and sample variability in highly heterogeneous datasets, while being expandable with newly generated datasets. It constitutes a foundational resource for the dissection of the molecular mechanisms underlying ovarian cancer pathogenesis.
 <details>
   <summary>Additional Atlases publications</summary>
 
