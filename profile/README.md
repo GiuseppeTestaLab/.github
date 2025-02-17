@@ -1,34 +1,56 @@
 # TestaLab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--genetics">Neuro<br>development</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--environment">Endocrine<br>disruptors</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--cancer">Cancer</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--covid">Covid-19</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--evolution">Evolution</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--epigenetics">Epigenetics</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--methodological-innovation">Methods</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--atlases">Atlases</a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: middle;">
+      <img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+      <a href="#--science-and-technology-studies-sts">STS</a>
+    </td>
+  </tr>
+</table>
 <!-- 
-| [Neuro- <br>development](#--genetics)<br> | [Endocrine <br>disruptors](#--environment)<br> |[ <br>Cancer](#--cancer)<br>|
-| :-----: | :-----: | :-----: |
-|<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|
-
-| [Covid-19](#--covid)<br> | [Evolution](#--evolution)<br> |[Epigenetics](#--epigenetics)<br> |
-| :-----: | :-----: | :-----: |
-| <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> | <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"> |
-
-| [Methods](#--methodological-innovation)<br> | [Atlases](#--atlases)<br> | [STS](#--science-and-technology-studies-sts)<br> |
-| :-----: | :-----: | :-----: |
-|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;">|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;">| -->
-
-<!-- <table width="15em" cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr style="height: 7em">
-      <td style="width: 5em;">Neuro development<img src="./icons/ndd.png"/></td>
-      <td style="width: 5em;">Endocrine disruptors<img src="./icons/enviroment.png"/></td>
-      <td style="width: 5em;">Cancer<img src="./icons/HGSOC2.png"/></td>
-    </tr>
-  </tbody>
-</table> -->
-
 ||||
 | :-----: | :-----: | :-----: |
 |<img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Neuro<br>development](#--genetics)|<img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Endocrine<br>disruptors](#--environment)|<img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[ <br>Cancer](#--cancer)|
 |<img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Covid-19](#--covid)|<img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Evolution](#--evolution)| <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Epigenetics](#--epigenetics)|
-|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Methods](#--methodological-innovation)|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Atlases](#--atlases)|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[STS](#--science-and-technology-studies-sts)|
+|<img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Methods](#--methodological-innovation)|<img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[Atlases](#--atlases)|<img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>[STS](#--science-and-technology-studies-sts)| -->
 
 ## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Neurodevelopment
 
