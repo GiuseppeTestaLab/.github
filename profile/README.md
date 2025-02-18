@@ -1,97 +1,63 @@
 # TestaLab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
-<style>
-  /* Ensure the table uses fixed layout and is responsive */
-  .responsive-table {
-    width: 100%;
-    table-layout: fixed;
-    background-color: #ffffff;
-  }
-  /* Set white background for all table rows */
-  .responsive-table tr {
-    background-color: #ffffff;
-  }
-  /* Style each cell */
-  .responsive-table td {
-    width: 33%;
-    height: 8em;
-    text-align: center;
-    vertical-align: top;
-  }
-  /* Make icons align to top and center */
-  .responsive-table img {
-    height: 6em;
-    vertical-align: top;
-    display: block;
-    margin: 0 auto;
-  }
-  
-  /* Optional media query for smartphones if you want to adjust the cell width */
-  @media (max-width: 600px) {
-    .responsive-table td {
-      width: 33%; /* or change this to 50% or 100% for a different layout */
-    }
-  }
-</style>
-
-<table class="responsive-table">
-  <tr>
-    <td>
+<table style="width: 100%; table-layout: fixed; background-color: #ffffff;">
+  <tr style="background-color: #ffffff;">
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--neurodevelopment">
-        <img src="./icons/ndd.png" alt="pin icon"><br>
+        <img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Neuro<br>development
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--endocrine-disruptors">
-        <img src="./icons/enviroment.png" alt="pin icon"><br>
+        <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Endocrine<br>disruptors
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--cancer">
-        <img src="./icons/HGSOC2.png" alt="pin icon"><br>
+        <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Cancer
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr style="background-color: #ffffff;">
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--covid-19">
-        <img src="./icons/covid.png" alt="pin icon"><br>
+        <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Covid-19
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--evolution">
-        <img src="./icons/skull2.png" alt="pin icon"><br>
+        <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Evolution
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--epigenetics">
-        <img src="./icons/dna.png" alt="pin icon"><br>
+        <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Epigenetics
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr style="background-color: #ffffff;">
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--methodological-innovation">
-        <img src="./icons/Methodological innovation.png" alt="pin icon"><br>
+        <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Methods
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--atlases">
-        <img src="./icons/atlas.png" alt="pin icon"><br>
+        <img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Atlases
       </a>
     </td>
-    <td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--science-and-technology-studies-sts">
-        <img src="./icons/sts.png" alt="pin icon"><br>
+        <img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         STS
       </a>
     </td>
