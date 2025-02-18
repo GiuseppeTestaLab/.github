@@ -1,63 +1,64 @@
 # TestaLab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
-<table style="width: 100%; table-layout: fixed; background-color: #ffffff;">
-  <tr style="background-color: #ffffff;">
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
       <a href="#--neurodevelopment">
-        <img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/ndd.png" alt="pin icon"><br>
         Neuro<br>development
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--endocrine-disruptors">
-        <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/enviroment.png" alt="pin icon"><br>
         Endocrine<br>disruptors
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--cancer">
-        <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><be>
-        <br>Cancer
+        <img src="./icons/HGSOC2.png" alt="pin icon"><br>
+        Cancer
       </a>
     </td>
   </tr>
-  <tr style="background-color: #ffffff;">
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+  <tr>
+    <td width="33%" align="center" valign="top">
       <a href="#--covid-19">
-        <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/covid.png" alt="pin icon"><br>
         Covid-19
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--evolution">
-        <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/skull2.png" alt="pin icon"><br>
         Evolution
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--epigenetics">
-        <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/dna.png" alt="pin icon"><br>
         Epigenetics
       </a>
     </td>
   </tr>
-  <tr style="background-color: #ffffff;">
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <a href="#--methods">
-        <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="#--methodological-innovation">
+        <img src="./icons/Methodological_innovation.png" alt="pin icon"><br>
         Methods
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--atlases">
-        <img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/atlas.png" alt="pin icon"><br>
         Atlases
       </a>
     </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+    <td width="33%" align="center" valign="top">
       <a href="#--science-and-technology-studies-sts">
-        <img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
+        <img src="./icons/sts.png" alt="pin icon"><br>
         STS
       </a>
     </td>
