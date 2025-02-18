@@ -139,7 +139,7 @@ This is the first demonstration based on epigenetic tracing of the dual origin i
 
 ## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid-19
 
-- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <be>
+- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE] <br>
 This work identified RAGE (receptor for advanced glycation endproducts) as a functional receptor of SARS-CoV-2 infection of monocytes contributing to COVID-19 severity.
 <details>
   <summary>Additional Covid publications</summary>
