@@ -13,7 +13,7 @@ Here is the complete list of publications from the lab divided by themes, with t
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--cancer">Cancer</a>
+      <a href="#--cancer"><br>Cancer</a>
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Here is the complete list of publications from the lab divided by themes, with t
 ## <img src="./icons/ndd.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Neurodevelopment
 
 - 📌 **GTF2I dosage regulates neuronal differentiation and social behavior in 7q11.23 neurodevelopmental disorders.** *López-Tobón et al.*, Science Advances. https://doi.org/10.1126/sciadv.adh2726<br>
-This paper shows, for the first time, developmental trajectories as clinically relevant phenotypes and the reversion with pharmacological treatment.
+This paper shows for the first time brain organoids developmental trajectories as clinically relevant phenotypes that ground novel pharmacological approaches to rescue in vivo the core manifestations of autism spectrum disorders.
 
 <details>
   <summary>Additional Neurodevelopment publications</summary>
@@ -89,7 +89,7 @@ This paper shows, for the first time, developmental trajectories as clinically r
 - 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/] <br>
 *Associated Perspective*
 https://doi.org/10.1126/science.abn9080 <br>
-The project integrates SELMA cohort epidemiology with experimental toxicology to investigate a real-life endocrine-disrupting chemical mixture (MIX N) linked to adverse neurodevelopment. It defines molecular pathways and dose responses to translate findings to human exposures and refine risk assessment practices.
+Here we spearheaded the integration of epidemiology and experimental biology to probe the impact of real-life endocrine disruptive chemicals (EDC) mixtures on human neurodevelopment, pioneering the use of brain organoids for regulatory toxicology and thereby unraveling convergent vulnerability mechanisms across genetic and environmental factors with profound policy implications.
 
 <details>
   <summary>Additional Environment publications</summary>
@@ -104,7 +104,7 @@ The project integrates SELMA cohort epidemiology with experimental toxicology to
 ## <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Cancer
 
 - 📌 **A cell-of-origin epigenetic tracer reveals clinically distinct subtypes of high-grade serous ovarian cancer.** *Lo Riso et al.*, Genome Medicine. https://doi.org/10.1186/s13073-020-00786-7  [GitHub https://github.com/GiuseppeTestaLab/CellOfOrigin]<br>
-This is the first demonstration based on epigenetic tracing of the dual origin of high grade serous ovarian cancer (HGSOC). Stratification of HGSOC based on our DNA methylation-based signature OriPrint revealed a worse prognosis for ovarian surface derived tumors, coupled to distinct transcriptional features associated with immune suppression and increased aggressiveness.
+This is the first demonstration based on epigenetic tracing of the dual origin in humans of high grade serous ovarian cancer (HGSOC). Stratification of HGSOC based on our DNA methylation-based signature OriPrint revealed a worse prognosis for ovarian surface-derived tumors, coupled to distinct transcriptional features associated with immune suppression and increased aggressiveness.
 <details>
   <summary>Additional Cancer publications</summary>
   
@@ -126,7 +126,8 @@ This is the first demonstration based on epigenetic tracing of the dual origin o
 
 ## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
 
-- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <br>
+- 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <be>
+This work identified RAGE (receptor for advanced glycation endproducts) as a functional receptor of SARS-CoV-2 infection of monocytes contributing to COVID-19 severity.
 <details>
   <summary>Additional Covid publications</summary>
 
@@ -136,7 +137,7 @@ This is the first demonstration based on epigenetic tracing of the dual origin o
 ## <img src="./icons/skull2.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Evolution
 
 - 📌 **Dosage analysis of the 7q11.23 Williams region identifies BAZ1B as a major human gene patterning the modern human face and underlying self-domestication.** *Zanella et al.*, Science Advances. https://doi.org/10.1126/sciadv.aaw7908 <br>
-This is the first experimental demonstration of human self-domestication leveraging disease modelling of neurodevelopmental disorders.
+This provides the first experimental demonstration of human self-domestication by integrating neurodevelopmental disease modelling with paleogenomics as a new interdisciplinary research program across modern human evolution and developmental biology.
 
 <details>
   <summary>Additional Evolution publications</summary>
@@ -151,7 +152,7 @@ This is the first experimental demonstration of human self-domestication leverag
 ## <img src="./icons/dna.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Epigenetics
 
 - 📌 **High resolution multi-scale profiling of embryonic germ cell-like cells derivation reveals pluripotent state transitions in humans.** *Stucchi et al*. BiorXiv 2025 https://doi.org/10.1101/2025.01.14.632914 [GitHub https://github.com/GiuseppeTestaLab/EGCLC_paper_release]<br>
-In this paper we finally demonstrate ...<br>
+We describe the first fully defined, feeder-free culture system for the efficient derivation of human embryonic germ-cell like cells (hEGCLCs) from human primordial germ cell-like cells (hPGCLCs) and leverage this novel protocol to define the molecular underpinnings of human pluripotent transitions by longitudinal multi-omic profiling, establishing a key resource to study the genetic and environmental factors involved in germ cells physiopathology and the epigenetic dynamics unfolding through their cycle.  <br>
 
 <details>
   <summary>Additional Epigenetics publications</summary>
@@ -175,7 +176,7 @@ In this paper we finally demonstrate ...<br>
 ## <img src="./icons/sts.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Science and technology studies (STS)
 
 - 📌 **Scrutinizing the EU General Data Protection Regulation.** Marelli and Testa, Science. https://doi.org/10.1126/science.aar5419 <br>
-this is the description
+This is the first scholarly analysis of the impact of the GDPR on biomedical research
 <details>
   <summary>Additional STS publications</summary>
 
@@ -201,7 +202,7 @@ this is the description
 
 - 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
 *Associated Research Briefing* https://doi.org/10.1038/s41592-024-02556-4 <br>
-The study develops and benchmarks strategies to multiplex human brain organoidogenesis by pooling pluripotent stem cells either during organoid generation (the mosaic model) or immediately before single-cell RNA sequencing. To enhance genetic cell identification from organoid transcriptomes, the authors introduce SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. They demonstrate that both multiplexing approaches accurately reconstruct neurodevelopmental trajectories and scale with increasing numbers of lines, thereby providing a resource to advance high-throughput brain organoid modeling for studying human neurodiversity.
+In this study we developed and benchmarked strategies to multiplex human brain organoids and introduced SCanSNP—an in silico deconvolution tool integrated into a consensus pipeline. We provide this suite of methods as enabling resource to advance high-throughput brain organoid modeling for studying human neurodiversity and paving the way to in vitro epidemiology by the cohort-level dissection of eDTL (expressed Developmental Trait Loci).
 
 <details>
   <summary>Additional Methods publications</summary>
@@ -240,7 +241,7 @@ The study develops and benchmarks strategies to multiplex human brain organoidog
 
 ## <img src="./icons/atlas.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Atlases
 - 📌 **A harmonized ovarian cancer scRNA-seq atlas to dissect disease heterogeneity underlying metastatization and chemoresistance** *Sallese et al.*, Biorxiv.https://doi.org/10.1101/2025.02.11.637633 <br>
-This resource describes the first comprehensive single cell transcriptomics atlas (OvCA) for high grade serous tubo-ovarian cancer. Here we generated an ad hoc strategy for feature selection and data integration (Single Cell Atlas Integration Pipeline – SCAIP) that is able to capture patient and sample variability in highly heterogeneous datasets, while being expandable with newly generated datasets. It constitutes a foundational resource for the dissection of the molecular mechanisms underlying ovarian cancer pathogenesis.
+This article describes the first comprehensive single cell transcriptomics atlas (OvCA) for high grade serous tubo-ovarian cancer. e generated an ad hoc strategy for feature selection and data integration (Single Cell Atlas Integration Pipeline – SCAIP) that is able to capture patient and sample variability in highly heterogeneous datasets, while being expandable with newly generated datasets. We offer it to the community a foundational resource for the dissection of the molecular mechanisms underlying ovarian cancer pathogenesis.
 <details>
   <summary>Additional Atlases publications</summary>
 
