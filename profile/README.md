@@ -10,7 +10,7 @@ Here is the complete list of publications from the lab divided by themes, with t
       </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <a href="#--enodocrine-disruptors">
+      <a href="#--endocrine-disruptors">
         <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
         Endocrine<br>disruptors
       </a>
