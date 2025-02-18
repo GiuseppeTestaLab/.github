@@ -4,44 +4,62 @@ Here is the complete list of publications from the lab divided by themes, with t
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--genetics">Neuro<br>development</a>
+      <a href="#--neurodevelopment">
+        <img src="./icons/ndd.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Neuro<br>development
+      </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--environment">Endocrine<br>disruptors</a>
+      <a href="#--environment">
+        <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Endocrine<br>disruptors
+      </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--cancer"><br>Cancer</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--covid">Covid-19</a>
-    </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--evolution">Evolution</a>
-    </td>
-    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--epigenetics">Epigenetics</a>
+      <a href="#--cancer">
+        <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Cancer
+      </a>
     </td>
   </tr>
   <tr>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--methodological-innovation">Methods</a>
+      <a href="#--covid-19">
+        <img src="./icons/covid.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Covid-19
+      </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--atlases">Atlases</a>
+      <a href="#--evolution">
+        <img src="./icons/skull2.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Evolution
+      </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: top;"><br>
-      <a href="#--science-and-technology-studies-sts">STS</a>
+      <a href="#--epigenetics">
+        <img src="./icons/dna.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Epigenetics
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+      <a href="#--methodological-innovation">
+        <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Methods
+      </a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+      <a href="#--atlases">
+        <img src="./icons/atlas.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        Atlases
+      </a>
+    </td>
+    <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
+      <a href="#--science-and-technology-studies-sts">
+        <img src="./icons/sts.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
+        STS
+      </a>
     </td>
   </tr>
 </table>
