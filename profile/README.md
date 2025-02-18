@@ -1,7 +1,7 @@
 # TestaLab publications by category
 
 Here is the complete list of publications from the lab divided by themes, with the most relevant publications pinned and explained
-<table style="width: 100%; table-layout: fixed; background-color: #ffffff;">
+<table style="width: 100%; table-layout: fixed; background-color: #ffffff;" test="1">
   <tr style="background-color: #ffffff;">
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--neurodevelopment">
