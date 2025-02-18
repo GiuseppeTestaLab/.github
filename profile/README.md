@@ -17,8 +17,8 @@ Here is the complete list of publications from the lab divided by themes, with t
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
       <a href="#--cancer">
-        <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
-        Cancer
+        <img src="./icons/HGSOC2.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><be>
+        <br>Cancer
       </a>
     </td>
   </tr>
@@ -44,7 +44,7 @@ Here is the complete list of publications from the lab divided by themes, with t
   </tr>
   <tr style="background-color: #ffffff;">
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <a href="#--methodological-innovation">
+      <a href="#--methods">
         <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 6em; vertical-align: top; display: block; margin: 0 auto;"><br>
         Methods
       </a>
