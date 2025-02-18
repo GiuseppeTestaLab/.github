@@ -10,7 +10,7 @@ Here is the complete list of publications from the lab divided by themes, with t
       </a>
     </td>
     <td style="width: 33%; height: 8em; text-align: center; vertical-align: top;">
-      <a href="#--environment">
+      <a href="#--enodocrine-disruptors">
         <img src="./icons/enviroment.png" alt="pin icon" style="height: 6em; vertical-align: middle;"><br>
         Endocrine<br>disruptors
       </a>
@@ -102,7 +102,7 @@ This paper shows for the first time brain organoids developmental trajectories a
 </details>
 
 
-## <img src="./icons/enviroment.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Environment
+## <img src="./icons/enviroment.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Endocrine Disruptors
 
 - 📌 **From cohorts to molecules: Adverse impacts of endocrine disrupting mixtures.** *Caporale et al.*, Science. https://doi.org/10.1126/science.abe8244 [GitHub https://giuseppetestalab.github.io/EDCMixRisk/] <br>
 *Associated Perspective*
@@ -142,7 +142,7 @@ This is the first demonstration based on epigenetic tracing of the dual origin i
 </details>
 
 
-## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid
+## <img src="./icons/covid.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Covid-19
 
 - 📌 **RAGE engagement by SARS-CoV-2 enables monocyte infection and underlies COVID-19 severity.** *Angioni et al.*, Cell Reports Medicine. https://doi.org/10.1016/j.xcrm.2023.101266 [GitHub https://github.com/GiuseppeTestaLab/covid19-RAGE <be>
 This work identified RAGE (receptor for advanced glycation endproducts) as a functional receptor of SARS-CoV-2 infection of monocytes contributing to COVID-19 severity.
