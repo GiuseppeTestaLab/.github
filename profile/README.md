@@ -212,7 +212,7 @@ This is the first scholarly analysis of the impact of the GDPR on biomedical res
 </details>
 
 
-## <img src="./icons/Methodological innovation.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Methods
+## <img src="./icons/Methodological_innovation.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Methods
 
 - 📌 **Multiplexing cortical brain organoids for the longitudinal dissection of developmental traits at single cell resolution.** *Caporale et al.*, Nature Methods. https://doi.org/10.1038/s41592-024-02555-5. [GitHub: https://github.com/GiuseppeTestaLab/organoidMultiplexing_release, https://github.com/GiuseppeTestaLab/SCanSNP]<br>
 *Associated Research Briefing* https://doi.org/10.1038/s41592-024-02556-4 <br>
