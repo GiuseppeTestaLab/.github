@@ -76,7 +76,7 @@ This paper shows for the first time brain organoids developmental trajectories a
   
 - **YY1 mutations disrupt corticogenesis through a cell type specific rewiring of cell‐autonomous and non‐cell‐autonomous transcriptional programs.** *Testa et al.*, Molecular Psychiatry. In press. https://pubmed.ncbi.nlm.nih.gov/38405909/ <br>
 - **Multiscale modeling uncovers 7q11.23 copy number variation–dependent changes in ribosomal biogenesis and neuronal maturation and excitability.** *Mihailovich et al.*, Journal of Clinical Investigation. https://doi.org/10.1172/JCI168982<br>
-- **Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism.** *D'Incal et al.*, Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8]<br>
+- **Chromatin remodeler Activity-Dependent Neuroprotective Protein (ADNP) contributes to syndromic autism.** *D'Incal et al.*, Clinical Epigenetics. https://doi.org/10.1186/s13148-023-01450-8<br>
 - **Curation of causal interactions mediated by genes associated with autism accelerates the understanding of gene-phenotype relationships underlying neurodevelopmental disorders.** *Iannuccelli et al.*, Molecular Psychiatry. https://doi.org/10.1038/s41380-023-02317-3 [GitHub https://github.com/SaccoPerfettoLab/ProxPath.]<br>
 - **EZH2-Mediated H3K27me3 Targets Transcriptional Circuits of Neuronal Differentiation.** *Buontempo et al.*, Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2022.814144 <br>
 - **CHD8 haploinsufficiency links autism to transient alterations in excitatory and inhibitory trajectories.** *Villa et al.*, Cell Reports. https://doi.org/10.1016/j.celrep.2022.110615<br>
